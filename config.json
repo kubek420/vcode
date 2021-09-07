@@ -1,0 +1,22 @@
+{
+    "APP_NAME": "My new project",
+    "APP_DEBUG": true,
+    "APP_SUBFOLDER": "",
+
+    "SERVER_PUBLIC_FOLDER": "private_html",
+
+    "RECAPTCHA_KEY": "",
+    "RECAPTCHA_SECRET_KEY": "",
+
+    "WEBSOCKET_APP_ID": "1215340",
+    "WEBSOCKET_KEY": "5c4833c8fa1358ec75d7",
+    "WEBSOCKET_SECRET_KEY": "26aa043be6233734d7e8",
+    "WEBSOCKET_CHANNEL": "message-channel",
+
+    "MAIL_ADDRESS": "kontakt@vcode.pl",
+
+    "DB_HOST": "localhost",
+    "DB_USERNAME": "root",
+    "DB_PASSWORD": "",
+    "DB_DATABASE": ""
+}
